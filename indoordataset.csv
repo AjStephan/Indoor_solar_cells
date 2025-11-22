@@ -1,4 +1,4 @@
-,Donor,Acceptor,ratio,Voc (V),Jsc (mA.cm²) or (µA.cm²),FF (%),PCE (%),Solvent,Surface aera (cm2),Donor_HOMO(ev) ,Donor_LUMO(ev),Acceptor_HOMO(ev),Acceptor_LUMO(ev),Concentration (mg/ml)
+Lux,Donor,Acceptor,ratio,Voc,Jsc,FF,PCE,Solvent,Surface,Donor_HOMO,Donor_LUMO,Acceptor_HOMO,Acceptor_LUMO,Concentration
 "AM 1,5G ",D18,FCC-Cl,"1  1,5",1.08,16.04,76,13.1,CF,0.059,5.43,3.46,5.73,3.71,7.5
 1000 lux,D18,FCC-Cl,"1  1,5",0.955,123,79.8,29.4,CF,0.059,5.43,3.46,5.73,3.71,7.5
 "AM 1,5G ",PM6,FCC-Cl,1  1,1.02,16.22,78.1,13,"CF + 0,5% DIO",0.059,5.45,3.65,5.73,3.71,10
@@ -90,3 +90,4 @@
 "AM 1,5G ",PTQ10,IDIC-S,"1  1,5",0.92,14.5,64,9.2,CF,0.0115,5.54,2.98,5.41,3.63,27.5
 
 1200 lux,PTQ10,IDIC-S,"1  1,5",0.76,104,59,15,CF,0.0115,5.54,2.98,5.41,3.63,27.5
+
