@@ -1,6 +1,4 @@
-1,,,,,,,,,,,,,,
-,Donor,Acceptor,ratio,Voc (V),Jsc (mA.cm²) or (µA.cm²),FF (%),PCE (%),Toxic,Surface aera (cm2),Donor_HOMO(ev) ,Donor_LUMO(ev),Acceptor_HOMO(ev),Acceptor_LUMO(ev),Concentration (mg/ml)
-,,,,,,,,,,,,,,
+lux,Donor,Acceptor,ratio,Voc,Jsc,FF,PCE,Toxic,Surface,Donor_HOMO,Donor_LUMO,Acceptor_HOMO,Acceptor_LUMO,Concentration
 100000,D18,FCC-Cl,1.5,1.08,16.04,76,13.1,4,0.059,5.43,3.46,5.73,3.71,7.5
 1000,D18,FCC-Cl,1.5,0.955,123,79.8,29.4,4,0.059,5.43,3.46,5.73,3.71,7.5
 100000,PM6,FCC-Cl,1,1.02,16.22,78.1,13,4,0.059,5.45,3.65,5.73,3.71,10
@@ -90,4 +88,5 @@
 100000,PTQ10,IDIC-Br,1.5,0.92,16.3,65,10.8,4,0.0115,5.54,2.98,5.9,4.07,27.5
 1200,PTQ10,IDIC-Br,1.5,0.73,150,64,22,4,0.0115,5.54,2.98,5.9,4.07,27.5
 100000,PTQ10,IDIC-S,1.5,0.92,14.5,64,9.2,4,0.0115,5.54,2.98,5.41,3.63,27.5
+
 1200,PTQ10,IDIC-S,1.5,0.76,104,59,15,4,0.0115,5.54,2.98,5.41,3.63,27.5
